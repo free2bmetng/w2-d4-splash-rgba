@@ -1,0 +1,19 @@
+body{
+    padding: 0px;
+    margin: 0px;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-seri f;
+}
+
+.hero {
+  padding: 80px 16px;
+  background: rgba(0, 0, 0, 0.5);
+  color: white;
+  text-align: center;
+  
+}
+
+.cta {
+  padding: 24px;
+  background: rgba(255, 0, 0, 0.7);
+  text-align: center;
+  }
